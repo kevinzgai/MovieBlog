@@ -9,7 +9,7 @@ Django==2.2.5
 django-bootstrap3==11.1.0
 django-user==0.2.1
 idna==2.8
-lxml==4.3.4
+lxml==4.6.3
 Pillow==6.1.0
 pycparser==2.19
 PyMySQL==0.9.3
